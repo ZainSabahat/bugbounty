@@ -1,0 +1,1 @@
+prompt('Pwned!' + document.domain);
