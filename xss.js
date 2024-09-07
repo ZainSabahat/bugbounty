@@ -1,1 +1,1 @@
-document.write("<h2>Pwned!</h2><p>Have a nice day!</p>");
+document.write("<h2>Hello World!</h2><p>Have a nice day!</p>");
